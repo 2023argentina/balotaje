@@ -1,6 +1,7 @@
 ﻿using System;
 using Core.Menues;
 using Telemetry;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using Utilities;
@@ -13,6 +14,7 @@ namespace Core.FinishSurvey
         [SerializeField] private Button shareButton;
         [SerializeField] private Image backgroundMilei;
         [SerializeField] private Image backgroundMassa;
+        [SerializeField] private TextMeshProUGUI percentageText;
 
         public event Action RestartButtonClicked;
         public event Action ShareButtonClicked;
@@ -52,8 +54,15 @@ namespace Core.FinishSurvey
                 
                 backgroundMassa.gameObject.SetActive(true);
                 backgroundMilei.gameObject.SetActive(false);
+
+                int resultPercentageMassa = (int)((Shared.SurveyData.MassaWeight * 100) / 19); //TODO: Replace magic number by amount of questions
+                percentageText.text = $"(Coincidencias: {resultPercentageMassa}%)";
+                
                 return;
             }
+            
+            int resultPercentageMilei = (int)((Shared.SurveyData.MileiWeight * 100) / 19); //TODO: Replace magic number by amount of questions
+            percentageText.text = $"(Coincidencias: {resultPercentageMilei}%)";
             
             Shared.SurveyCandidateResult resultEventMilei = new Shared.SurveyCandidateResult("Milei");
             _telemetrySender.Send(resultEventMilei.EventName, resultEventMilei.EventParameters);
