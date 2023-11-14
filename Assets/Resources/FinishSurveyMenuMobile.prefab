@@ -229,7 +229,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 3.9871, y: -286.08533}
+  m_AnchoredPosition: {x: 3.9871, y: -534}
   m_SizeDelta: {x: 891.3597, y: 286.0853}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &1094948825026184496
@@ -260,7 +260,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Texto descriptivo del candidato, con caracteristicas que lo representan
+  m_text: "El Estado debe estar presente, ser mejorado y m\xE1s eficiente, y eso
+    es incompatible con destruirlo. Hay que exportar trabajo argentino e industrializar,
+    para generar divisas y librarse del FMI. Orden en las cuentas y en las instituciones,
+    sin dejar a nadie fuera. Unidad nacional y di\xE1logo."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
   m_sharedMaterial: {fileID: -2803107543306557755, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
@@ -642,7 +645,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 3.9871, y: -286.08533}
+  m_AnchoredPosition: {x: 3.9871, y: -574}
   m_SizeDelta: {x: 891.3597, y: 286.0853}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &1040257554500662858
@@ -673,7 +676,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Texto descriptivo del candidato, con caracteristicas que lo representan
+  m_text: "El Estado es la causa de todos los males, debe ser reducido al m\xEDnimo.
+    Los individuos y las empresas deben negociar libremente y que gane el m\xE1s
+    fuerte. Salud, educaci\xF3n y obras p\xFAblicas son mejores privadas, aunque
+    lleguen s\xF3lo a donde dan ganancias. Algunos sectores partidarios deben ser
+    eliminados."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
   m_sharedMaterial: {fileID: -2803107543306557755, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}

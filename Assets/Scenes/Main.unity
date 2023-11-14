@@ -927,7 +927,7 @@ MonoBehaviour:
   mainCanvasView: {fileID: 1340378953}
   audioManager: {fileID: 239327563}
   shareOnSocialMedia: {fileID: 1608066744}
-  jsonData: {fileID: 4900000, guid: 4cec273d59646674bb7e118e8ab8a260, type: 3}
+  jsonData: {fileID: 4900000, guid: 1c16e52ecaf143e43b3f4b8df5503dea, type: 3}
 --- !u!4 &1898047966
 Transform:
   m_ObjectHideFlags: 0

@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: -108}
+  m_AnchoredPosition: {x: 0, y: -179}
   m_SizeDelta: {x: 1920, y: 192}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &2476804076533687216
@@ -65,7 +65,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Texto descriptivo del candidato, con caracteristicas que lo representan
+  m_text: "El Estado es la causa de todos los males, debe ser reducido al m\xEDnimo.
+    Los individuos y las empresas deben negociar libremente y que gane el m\xE1s
+    fuerte. Salud, educaci\xF3n y obras p\xFAblicas son mejores privadas, aunque
+    lleguen s\xF3lo a donde dan ganancias. Algunos sectores partidarios deben ser
+    eliminados."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
   m_sharedMaterial: {fileID: -2803107543306557755, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
@@ -92,8 +96,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 46
-  m_fontSizeBase: 46
+  m_fontSize: 42
+  m_fontSizeBase: 42
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -128,7 +132,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 76.67035, z: 0, w: 0}
+  m_margin: {x: 29.763489, y: 76.67035, z: 37.880615, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -681,7 +685,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: -108}
+  m_AnchoredPosition: {x: 0, y: -179}
   m_SizeDelta: {x: 1920, y: 192}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &2231251622246354740
@@ -712,7 +716,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Texto descriptivo del candidato, con caracteristicas que lo representan
+  m_text: "El Estado debe estar presente, ser mejorado y m\xE1s eficiente, y eso
+    es incompatible con destruirlo. Hay que exportar trabajo argentino e industrializar,
+    para generar divisas y librarse del FMI. Orden en las cuentas y en las instituciones,
+    sin dejar a nadie fuera. Unidad nacional y di\xE1logo."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
   m_sharedMaterial: {fileID: -2803107543306557755, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
@@ -775,7 +782,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 76.67035, z: 0, w: 0}
+  m_margin: {x: 46.68524, y: 76.67035, z: 44.35083, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0

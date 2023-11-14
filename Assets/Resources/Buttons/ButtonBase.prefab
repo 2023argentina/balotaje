@@ -201,10 +201,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: La asusencia de normas que limiten el accionar individual.
+  m_text: "S\xF3lo ser\xE1 posible con la eliminacion de uno o m\xE1s sectores pol\xEDticos."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
-  m_sharedMaterial: {fileID: -2803107543306557755, guid: 101add2ab3c5ba045b6036df008c42c9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 250aae6f3f93ae34dac640eeaceb0cfe, type: 2}
+  m_sharedMaterial: {fileID: -2189349036989840248, guid: 250aae6f3f93ae34dac640eeaceb0cfe, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535

@@ -5,12 +5,12 @@
       "questionText": "¿Cuál es tu postura respecto a Malvinas?",
       "answers": [
         {
-          "answerText": "Hay que respetar a los Kelpers",
+          "answerText": "Hay que respetar a los Kelpers.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
         {
-          "answerText": "Son Argentinas, debemos mantener el reclamo",
+          "answerText": "Son argentinas, debemos mantener el reclamo.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -26,7 +26,7 @@
           "MassaPercetage": 0
         },
         {
-          "answerText": "Si, es una forma de igualar oportunidades y llegar donde el privado no lo hace.",
+          "answerText": "Sí, es una forma de igualar oportunidades y llegar donde el privado no lo hace.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -37,7 +37,7 @@
       "questionText": "¿Qué se deberia hacer con el sistema tributario?",
       "answers": [
         {
-          "answerText": "Los impuestos son un robo, no deberian existir de ninguna forma.",
+          "answerText": "Los impuestos son un robo, no deberían existir de ninguna forma.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
@@ -58,7 +58,7 @@
           "MassaPercetage": 0
         },
         {
-          "answerText": "La presencia de medios efectivos y conocimiento para poder lograr los objetivos.",
+          "answerText": "La presencia de oportunidad, recursos y conocimiento para lograr los objetivos.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -69,7 +69,7 @@
       "questionText": "¿Se deberían tomar acciones para garantizar la vivienda?",
       "answers": [
         {
-          "answerText": "No, hay que dejar que el mercado inmobiliario opere y que tenga las posibilidades acceda.",
+          "answerText": "No, hay que dejar que el mercado inmobiliario opere sólo. Quien tenga las posibilidades accederá.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
@@ -98,15 +98,15 @@
     },
     {
       "questionID": 6,
-      "questionText": "¿De qué manera se puede enfrentar mejor la inseguridad",
+      "questionText": "¿De qué manera se puede enfrentar mejor la inseguridad?",
       "answers": [
         {
-          "answerText": "Libre portación de armas e implementar una doctrina de seguridad nacional",
+          "answerText": "Libre portación de armas e implementar una doctrina de seguridad nacional.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
         {
-          "answerText": "Inversión en fuerzas de seguridad, tecnologías de prevención y sistema judicial eficiente",
+          "answerText": "Inversión en fuerzas de seguridad, tecnologías de prevención y sistema judicial eficiente.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -117,12 +117,12 @@
       "questionText": "¿De qué manera se debe reducir la inflación?",
       "answers": [
         {
-          "answerText": "Al dolarizar y cerrar el Banco Central solo tendremos la inflación del dólar",
+          "answerText": "Al dolarizar y cerrar el Banco Central sólo tendremos la inflación del dólar.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
         {
-          "answerText": "Superavit fiscal para no emitir, superavit comercial para sacar al FMI y acuerdos de precios.",
+          "answerText": "Superávit fiscal para no emitir, superávit comercial para sacar al FMI y acuerdos de precios.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -133,7 +133,7 @@
       "questionText": "¿Qué deberíamos hacer con los recursos naturales y estratégicos?",
       "answers": [
         {
-          "answerText": "Hay que liberalizar el mercado y permitir que las grandes empresas los extraigan",
+          "answerText": "Hay que liberalizar el mercado y permitir que las grandes empresas los extraigan.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
@@ -149,12 +149,12 @@
       "questionText": "¿Qué política ambiental y climática debería haber?",
       "answers": [
         {
-          "answerText": "El cambio climático no existe; ademas se debe desregular la contaminación.",
+          "answerText": "El cambio climático no existe. Se debe desregular la contaminación.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
         {
-          "answerText": "Medidas adaptativas y de mitigación, siendo la mayor responsabilidad la de los países desarrollados.",
+          "answerText": "Penalizar crímenes ambientales. Cuidar la casa común.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -162,7 +162,7 @@
     },
     {
       "questionID": 10,
-      "questionText": "¿Cómo deber ser la obra pública del Estado?",
+      "questionText": "¿Cuál es tu mirada sobre la Obra Pública?",
       "answers": [
         {
           "answerText": "Debe ser privatizada, los vecinos se pueden organizar para hacerla.",
@@ -170,7 +170,7 @@
           "MassaPercetage": 0
         },
         {
-          "answerText": "Es un motor clave del empleo y el desarrollo, además de llegar donde el privado no lo hace. ",
+          "answerText": "Es un motor clave del empleo y el desarrollo, y llega donde el privado no lo hace. ",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -181,12 +181,12 @@
       "questionText": "¿Cómo se debe pagar la deuda con el FMI?",
       "answers": [
         {
-          "answerText": "Hay que hacer un gran ajuste en todo sentido y si es necesario tomar otros créditos",
+          "answerText": "Hay que hacer un gran ajuste, incluso mayor al solicitado por el FMI.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
         {
-          "answerText": "Con superavit comercial, exportando trabajo argentino, para acumular reservas gracias al crecimiento económico.",
+          "answerText": "Con superavit comercial, exportando trabajo argentino: acumular reservas con crecimiento económico.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -202,7 +202,7 @@
           "MassaPercetage": 0
         },
         {
-          "answerText": "Si, puede ser privado o público, siempre regulado para que llegue a todos a precio acequible.",
+          "answerText": "Sí, puede ser privado o público, regulado para que llegue a precio acequible.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -218,7 +218,7 @@
           "MassaPercetage": 0
         },
         {
-          "answerText": "Si, enseña a cuidar el propio cuerpo y gracias a esto se descubrieron cientos de casos de abuso.",
+          "answerText": "Sí, enseña a cuidar el propio cuerpo y permitió descubrir muchos casos de abusos.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -245,12 +245,12 @@
       "questionText": "¿Cuáles deberían ser las políticas monetarias?",
       "answers": [
         {
-          "answerText": "Se debe dolarizar y cerrar el banco central, que la política monetaria la maneje EEUU",
+          "answerText": "Se debe dolarizar y cerrar el banco central, que la política monetaria la maneje EE.UU.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
         {
-          "answerText": "Cuentas ordenadas para bajar la emisión y créditos accesibles para la producción",
+          "answerText": "Cuentas ordenadas para bajar la emisión y créditos accesibles para la producción.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -266,7 +266,7 @@
           "MassaPercetage": 0
         },
         {
-          "answerText": "No mezclar economía con ideología: debemos comerciar con todos para vender el trabajo argentino en el mundo y generar divisas.",
+          "answerText": "No mezclar economía con ideología: comerciar con todos para vender el trabajo argentino y generar divisas.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
@@ -277,12 +277,12 @@
       "questionText": "¿Debemos creer en la Democracia?",
       "answers": [
         {
-          "answerText": "Es dificil responder, esta sujeta a una imposibilidad teórica",
+          "answerText": "Es dificil responder, esta sujeta a una imposibilidad teórica.",
           "MileiPercentage": 1,
           "MassaPercetage": 0
         },
         {
-          "answerText": "Debe ser protegida, no es sólo poder votar, sino también participar en la sociedad",
+          "answerText": "Debe ser protegida: no es sólo poder votar, sino también participar en la sociedad.",
           "MileiPercentage": 0,
           "MassaPercetage": 1
         }
