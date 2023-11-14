@@ -1,0 +1,308 @@
+{
+  "questions": [
+    {
+      "questionID": 0,
+      "questionText": "¿Cuál es tu postura respecto a Malvinas?",
+      "answers": [
+        {
+          "answerText": "Hay que respetar a los Kelpers",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Son Argentinas, debemos mantener el reclamo",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 1,
+      "questionText": "¿La educación y la salud deben ser públicas?",
+      "answers": [
+        {
+          "answerText": "No, deben ser de gestión privada mediante vouchers; si no es rentable debe cerrar.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Si, es una forma de igualar oportunidades y llegar donde el privado no lo hace.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 2,
+      "questionText": "¿Qué se deberia hacer con el sistema tributario?",
+      "answers": [
+        {
+          "answerText": "Los impuestos son un robo, no deberian existir de ninguna forma.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Hay que hacer una simplificación impositiva y hacerlo más justo y progresivo.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 3,
+      "questionText": "¿Cuál es tu idea de libertad?",
+      "answers": [
+        {
+          "answerText": "La asusencia de normas que limiten el accionar individual.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "La presencia de medios efectivos y conocimiento para poder lograr los objetivos.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 4,
+      "questionText": "¿Se deberían tomar acciones para garantizar la vivienda?",
+      "answers": [
+        {
+          "answerText": "No, hay que dejar que el mercado inmobiliario opere y que tenga las posibilidades acceda.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Es un derecho básico, es importante actuar colectivamente para favorecer el acceso.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 5,
+      "questionText": "¿De qué manera se puede lograr la convivencia democrática? (Acabar la grieta)",
+      "answers": [
+        {
+          "answerText": "Sólo será posible con la eliminacion de uno o más sectores políticos.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "El diálogo, los valores comunes y un gobierno de unidad nacional.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 6,
+      "questionText": "¿De qué manera se puede enfrentar mejor la inseguridad",
+      "answers": [
+        {
+          "answerText": "Libre portación de armas e implementar una doctrina de seguridad nacional",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Inversión en fuerzas de seguridad, tecnologías de prevención y sistema judicial eficiente",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 7,
+      "questionText": "¿De qué manera se debe reducir la inflación?",
+      "answers": [
+        {
+          "answerText": "Al dolarizar y cerrar el Banco Central solo tendremos la inflación del dólar",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Superavit fiscal para no emitir, superavit comercial para sacar al FMI y acuerdos de precios.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 8,
+      "questionText": "¿Qué deberíamos hacer con los recursos naturales y estratégicos?",
+      "answers": [
+        {
+          "answerText": "Hay que liberalizar el mercado y permitir que las grandes empresas los extraigan",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Esas riquezas deben favorecer al país, sin descuidar la sostenibilidad ambiental.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 9,
+      "questionText": "¿Qué política ambiental y climática debería haber?",
+      "answers": [
+        {
+          "answerText": "El cambio climático no existe; ademas se debe desregular la contaminación.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Medidas adaptativas y de mitigación, siendo la mayor responsabilidad la de los países desarrollados.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 10,
+      "questionText": "¿Cómo deber ser la obra pública del Estado?",
+      "answers": [
+        {
+          "answerText": "Debe ser privatizada, los vecinos se pueden organizar para hacerla.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Es un motor clave del empleo y el desarrollo, además de llegar donde el privado no lo hace. ",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 11,
+      "questionText": "¿Cómo se debe pagar la deuda con el FMI?",
+      "answers": [
+        {
+          "answerText": "Hay que hacer un gran ajuste en todo sentido y si es necesario tomar otros créditos",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Con superavit comercial, exportando trabajo argentino, para acumular reservas gracias al crecimiento económico.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 12,
+      "questionText": "¿Los Servicios públicos de calidad son un derecho?",
+      "answers": [
+        {
+          "answerText": "No, deben ser provistos por privados, sin subsidios.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Si, puede ser privado o público, siempre regulado para que llegue a todos a precio acequible.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 13,
+      "questionText": "¿En las escuelas debe continuar la Educación Sexual Integral?",
+      "answers": [
+        {
+          "answerText": "No, eso es tarea de los padres, se trata de adoctrinamiento.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Si, enseña a cuidar el propio cuerpo y gracias a esto se descubrieron cientos de casos de abuso.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 14,
+      "questionText": "¿Cuál es tu opinión sobre el feminismo y la desigualdad de género?",
+      "answers": [
+        {
+          "answerText": "La desigualdad salarial es mentira. Hay que cerrar el Ministerio de la Mujer.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Hay que acabar con la desigualdad de género, que se expresa de muchas formas.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 15,
+      "questionText": "¿Cuáles deberían ser las políticas monetarias?",
+      "answers": [
+        {
+          "answerText": "Se debe dolarizar y cerrar el banco central, que la política monetaria la maneje EEUU",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Cuentas ordenadas para bajar la emisión y créditos accesibles para la producción",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 16,
+      "questionText": "¿Cómo deberian ser la relaciones con otros países?",
+      "answers": [
+        {
+          "answerText": "No negociar con China ni Brasil, aunque sean los principales socios comerciales son comunistas.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "No mezclar economía con ideología: debemos comerciar con todos para vender el trabajo argentino en el mundo y generar divisas.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 17,
+      "questionText": "¿Debemos creer en la Democracia?",
+      "answers": [
+        {
+          "answerText": "Es dificil responder, esta sujeta a una imposibilidad teórica",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Debe ser protegida, no es sólo poder votar, sino también participar en la sociedad",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    },
+    {
+      "questionID": 18,
+      "questionText": "¿Cuál es tu perspectiva sobre la Dictadura del '76?",
+      "answers": [
+        {
+          "answerText": "Fue una guerra y hubo algunos excesos. Económicamente fue acertada al liberalizar la economía.",
+          "MileiPercentage": 1,
+          "MassaPercetage": 0
+        },
+        {
+          "answerText": "Hubo terrorismo de Estado y las políticas económicas trajeron deuda, inflación, cierre de empresas y desempleo.",
+          "MileiPercentage": 0,
+          "MassaPercetage": 1
+        }
+      ]
+    }
+  ]
+}
