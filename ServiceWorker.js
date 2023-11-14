@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-balotaje2023-1.0";
 const contentToCache = [
     "Build/balotaje.loader.js",
-    "Build/balotaje.framework.js.unityweb",
-    "Build/balotaje.data.unityweb",
-    "Build/balotaje.wasm.unityweb",
+    "Build/balotaje.framework.js",
+    "Build/balotaje.data",
+    "Build/balotaje.wasm",
     "TemplateData/style.css"
 
 ];
